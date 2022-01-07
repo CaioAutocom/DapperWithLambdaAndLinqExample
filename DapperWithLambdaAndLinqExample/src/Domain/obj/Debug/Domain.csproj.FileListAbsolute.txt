@@ -1,0 +1,7 @@
+C:\curso\Dapper\DapperWithLambdaAndLinqExample\src\Domain\bin\Debug\Domain.dll
+C:\curso\Dapper\DapperWithLambdaAndLinqExample\src\Domain\bin\Debug\Domain.pdb
+C:\curso\Dapper\DapperWithLambdaAndLinqExample\src\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\curso\Dapper\DapperWithLambdaAndLinqExample\src\Domain\obj\Debug\Domain.dll
+C:\curso\Dapper\DapperWithLambdaAndLinqExample\src\Domain\obj\Debug\Domain.pdb
+C:\curso\Dapper\DapperWithLambdaAndLinqExample\src\Domain\bin\Debug\Domain.dll.config
+C:\curso\Dapper\DapperWithLambdaAndLinqExample\src\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
